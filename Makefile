@@ -243,6 +243,7 @@ powershell_STEP_TO_PROG =  powershell/$($(1)).ps1
 ps_STEP_TO_PROG =      ps/$($(1)).ps
 python_STEP_TO_PROG =  python/$($(1)).py
 python.2_STEP_TO_PROG = python.2/$($(1)).py
+quux_STEP_TO_PROG = quux/$($(1)).qx
 r_STEP_TO_PROG =       r/$($(1)).r
 racket_STEP_TO_PROG =  racket/$($(1)).rkt
 rexx_STEP_TO_PROG =    rexx/$($(1)).rexxpp
