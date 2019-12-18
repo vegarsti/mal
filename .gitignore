@@ -104,6 +104,7 @@ php/mal.php
 php/mal-web.php
 ps/mal.ps
 python/mal.pyz
+python.3/.idea
 r/mal.r
 ruby/mal.rb
 .cargo/
